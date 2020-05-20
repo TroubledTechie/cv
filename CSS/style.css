@@ -1,21 +1,21 @@
 hr{
   border-style: none;
   border-top-style: dotted;
-  border-width: 10px;
-  color: #cbf1f5;
+  border-width: 9px;
+  color: #f6c7c7;
   width: 5%;
 }
 
 body{
-  background-color: #e3fdfd;
+  background-color: #fbe8e7;
 }
 
 h1{
-  color: #71c9ce;
+  color: #f12b6b;
 }
 
 h3{
-  color: #71c9ce;
+  color: #ff467e;
 }
 
 .center-align{
